@@ -1,5 +1,5 @@
 # Symbolic mathematics with Sympy
-import sympy as sym
+import sympy as sym/n
 a, b = sym.symbols('a, b')
 expr = (a + b) ** 10 
 expr
